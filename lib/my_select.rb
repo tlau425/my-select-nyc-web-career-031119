@@ -1,5 +1,6 @@
 nums = [1,2,3,4,5]
 def my_select(collection)
  # your code here!
- collection.select
+ new_array = []
+ collection.select {
 end
